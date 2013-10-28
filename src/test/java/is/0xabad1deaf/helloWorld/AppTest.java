@@ -1,5 +1,3 @@
-package is.0xabad1deaf.helloWorld;
-
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
