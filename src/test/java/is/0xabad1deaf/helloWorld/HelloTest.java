@@ -1,3 +1,5 @@
+package "is.0xabad1deaf.helloWorld";
+
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
@@ -6,7 +8,7 @@ import static org.junit.Assert.assertEquals;
  */
 public class HelloTest
 {
-    @test
+    @Test
     public void programPrintsHello()
     {
         World world = new World();

@@ -1,0 +1,4 @@
+#! /bin/bash
+
+cp ../target/helloWorld-1.0-SNAPSHOT.jar /tmp/hw.jar
+java /tmp/hw.jar
